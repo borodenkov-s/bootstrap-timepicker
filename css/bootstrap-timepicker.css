@@ -26,7 +26,7 @@
 .bootstrap-timepicker .input-group-addon {
   cursor: pointer;
 }
-.bootstrap-timepicker .input-group-addon i {
+.bootstrap-timepicker .input-group-addon span {
   display: inline-block;
   width: 16px;
   height: 16px;
